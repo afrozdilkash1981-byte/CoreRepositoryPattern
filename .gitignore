@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MaintenanceApp.Api/.vs
+/MaintenanceApp.Api/bin/Debug/net8.0
+/MaintenanceApp.Api/obj
+
+/MaintenanceApp.Application/.vs
+/MaintenanceApp.Application/bin/Debug/net8.0
+/MaintenanceApp.Application/obj
+
+/MaintenanceApp.Domain/.vs
+/MaintenanceApp.Domain/bin/Debug/net8.0
+/MaintenanceApp.Domain/obj
+
+/MaintenanceApp.Infrastructure/.vs
+/MaintenanceApp.Infrastructure/bin/Debug/net8.0
+/MaintenanceApp.Infrastructure/obj
+
