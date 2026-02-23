@@ -2,6 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs
+
 /MaintenanceApp.Api/.vs
 /MaintenanceApp.Api/bin/Debug/net8.0
 /MaintenanceApp.Api/obj
